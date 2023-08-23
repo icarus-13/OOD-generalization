@@ -16,5 +16,5 @@ The Synthetic SEM folder can be used to reproduce results in the Synthetic SEM e
 
 ## Finance Experiment
 
-The finance experiment folder contains both the notebook and data used for the Finance experiment, where we compare the performance of ERM, IRMv1, V-REx and anchor regression in a semi-classification setting. Data files can also be found at https://anonymous.4open.science/r/12747e81-8505-43cb-b54e-e75e2344a397/finance_experiments/data.
+The finance experiment folder contains both the notebook and data used for the Finance experiment, where we compare the performance of ERM, IRMv1, V-REx and anchor regression in a semi-classification setting. Data files can also be found at https://anonymous.4open.science/r/12747e81-8505-43cb-b54e-e75e2344a397/finance_experiments/data. Make sure that the notebook is at the same folder directory with the folder containing the csv files so that they can be properly read.
 
