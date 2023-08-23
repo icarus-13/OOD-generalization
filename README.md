@@ -14,7 +14,7 @@ The Synthetic SEM folder can be used to reproduce results in the Synthetic SEM e
 
 --- To choose the strength of shift under test domain, mannually change the intervention size in the main section at line 95/99 based on which experiment you are running.
 
-# Finance Experiment
+## Finance Experiment
 
 The finance experiment folder contains both the notebook and data used for the Finance experiment, where we compare the performance of ERM, IRMv1, V-REx and anchor regression in a semi-classification setting. data files can also be found at https://anonymous.4open.science/r/12747e81-8505-43cb-b54e-e75e2344a397/finance_experiments/data.
 
