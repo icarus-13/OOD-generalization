@@ -8,7 +8,7 @@ The Colored MNIST folder contains three notebooks for the Colored MNIST experime
 ## Synthetic SEM
 The Synthetic SEM folder can be used to reproduce results in the Synthetic SEM experiment that compares ERM, IRMv1, V-REx and anchor regression in a regression problem. Users can fine-tune the hyper-parameters manually and each run corresponds to one of the 12 experiment settings presented in the thesis.
 
---- To swtich between heteroskedastic (E) and homoskedastic (O) setting, change the variable setup_hetero.
+--- To switch between heteroskedastic (E) and homoskedastic (O) setting, change the variable setup_hetero.
 
 --- To specify whether training domains are similar (“1”) or far (“0”), change the variable setup_similar.
 
