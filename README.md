@@ -12,7 +12,7 @@ The Synthetic SEM folder can be used to reproduce results in the Synthetic SEM e
 
 --- To specify whether training domains are similar (“1”) or far (“0”), change the variable setup_similar.
 
---- To choose the strength of shift under test domain, mannually change the intervention size in the main section at line 95/99 based on which experiment you are running.
+--- To choose the strength of shift under test domain, manually change the intervention size in the main section at line 95/99 based on which experiment you are running.
 
 ## Finance Experiment
 
